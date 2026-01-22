@@ -1,1 +1,1 @@
-# Cost calculator extension
+# Parking demand calculator extension
